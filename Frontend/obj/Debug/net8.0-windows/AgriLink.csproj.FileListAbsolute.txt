@@ -25,3 +25,9 @@ C:\xampp\htdocs\AgriLink-Nogtech\Frontend\obj\Debug\net8.0-windows\refint\AgriLi
 C:\xampp\htdocs\AgriLink-Nogtech\Frontend\obj\Debug\net8.0-windows\AgriLink.pdb
 C:\xampp\htdocs\AgriLink-Nogtech\Frontend\obj\Debug\net8.0-windows\AgriLink.genruntimeconfig.cache
 C:\xampp\htdocs\AgriLink-Nogtech\Frontend\obj\Debug\net8.0-windows\ref\AgriLink.dll
+C:\xampp\htdocs\AgriLink-Nogtech\Frontend\obj\Debug\net8.0-windows\Views\BuyerDashboard.baml
+C:\xampp\htdocs\AgriLink-Nogtech\Frontend\obj\Debug\net8.0-windows\Views\DriverDashboard.baml
+C:\xampp\htdocs\AgriLink-Nogtech\Frontend\obj\Debug\net8.0-windows\Views\BuyerDashboard.g.cs
+C:\xampp\htdocs\AgriLink-Nogtech\Frontend\obj\Debug\net8.0-windows\Views\DriverDashboard.g.cs
+C:\xampp\htdocs\AgriLink-Nogtech\Frontend\obj\Debug\net8.0-windows\Views\SignUpPage.baml
+C:\xampp\htdocs\AgriLink-Nogtech\Frontend\obj\Debug\net8.0-windows\Views\SignUpPage.g.cs

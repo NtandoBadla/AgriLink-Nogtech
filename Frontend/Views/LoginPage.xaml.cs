@@ -8,6 +8,15 @@ public partial class LoginPage : Window
     public LoginPage()
     {
         InitializeComponent();
-        DataContext = new LoginViewModel(new Services.MockLoginService(), new Services.NavigationService());
+        var viewModel = new LoginViewModel(new Services.MockLoginService(), new Services.NavigationService());
+        viewModel.LoginPage = this;
+        DataContext = viewModel;
+    }
+
+    private void SignUpButton_Click(object sender, RoutedEventArgs e)
+    {
+        var signUpPage = new SignUpPage();
+        signUpPage.Show();
+        this.Close();
     }
 }

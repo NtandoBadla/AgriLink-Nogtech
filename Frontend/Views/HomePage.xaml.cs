@@ -10,4 +10,11 @@ public partial class HomePage : Window
         InitializeComponent();
         DataContext = new HomeViewModel();
     }
+
+    private void LogoutButton_Click(object sender, RoutedEventArgs e)
+    {
+        var loginPage = new LoginPage();
+        loginPage.Show();
+        this.Close();
+    }
 }

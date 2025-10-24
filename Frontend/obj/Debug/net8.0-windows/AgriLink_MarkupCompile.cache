@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\xampp\htdocs\AgriLink-Nogtech\Frontend\App.xaml
-2-63246592
+5-1649432590
 
-13-1940424603
+16220522403
 201126826321
-Views\HomePage.xaml;Views\LoginPage.xaml;
+Views\BuyerDashboard.xaml;Views\DriverDashboard.xaml;Views\HomePage.xaml;Views\LoginPage.xaml;Views\SignUpPage.xaml;
 
 False
 

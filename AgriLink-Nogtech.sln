@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgriLink.Backend", "AgriLink.Backend\AgriLink.Backend.csproj", "{F2D40A0D-AC7D-503C-C568-CA74B6A7008E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgriLink", "Frontend\AgriLink.csproj", "{3A2F41A1-75F6-6F43-DFA0-9127DEAC4EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2D40A0D-AC7D-503C-C568-CA74B6A7008E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D40A0D-AC7D-503C-C568-CA74B6A7008E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D40A0D-AC7D-503C-C568-CA74B6A7008E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D40A0D-AC7D-503C-C568-CA74B6A7008E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A2F41A1-75F6-6F43-DFA0-9127DEAC4EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2F41A1-75F6-6F43-DFA0-9127DEAC4EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2F41A1-75F6-6F43-DFA0-9127DEAC4EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2F41A1-75F6-6F43-DFA0-9127DEAC4EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11EEF375-14B5-4692-9615-DEE244635E97}
+	EndGlobalSection
+EndGlobal

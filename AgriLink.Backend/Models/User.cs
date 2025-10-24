@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace AgriLink.Backend.Models
 {
     public enum UserRole { Farmer, Buyer, Driver }
